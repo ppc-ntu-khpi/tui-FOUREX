@@ -1,3 +1,11 @@
+# Результат
+
+Виведення інформації про клієнта
+![](assets/img_1.png)
+
+Повідомлення про помилку
+![](assets/img_2.png)
+
 # UI Lab 1
 ![](terminal-icon.png)
 ![](gui-icon.png)
